@@ -5,7 +5,7 @@ var game = new Phaser.Game(
 	{
 		preload: preload,
 		create: create,
-		update:upate
+		update: update
 	});
 
 function preload(){
@@ -13,9 +13,11 @@ function preload(){
 }
 
 function create(){
-	function update(){
 
-	}
+}
+
+function update(){
+
 }
 
 
